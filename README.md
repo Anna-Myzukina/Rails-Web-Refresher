@@ -1,6 +1,8 @@
 # Rails-Web-Refresher
 The Odin Project
 
+[Test any URI, by sending custom HTTP request and checking the HTTP response. TestURI.org is a free web-sniffer.net alternative.](http://testuri.org/sniffer)
+
 
 #### These request verbs are:
 
